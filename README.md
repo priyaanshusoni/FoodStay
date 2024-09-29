@@ -1,4 +1,4 @@
-/**
+i/**
 * Header 
 -logo 
 -Nav Items
@@ -19,3 +19,7 @@
 
 
 Task Of today -> styling the app , implementing tailwind css  
+
+#  Image Preview 
+
+<img src="./Screenshot 2024-09-29 234432.png"></img>
